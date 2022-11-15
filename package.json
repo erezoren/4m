@@ -1,0 +1,22 @@
+{
+  "name": "4m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "4m.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erezoren/4m.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erezoren/4m/issues"
+  },
+  "homepage": "https://github.com/erezoren/4m#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
